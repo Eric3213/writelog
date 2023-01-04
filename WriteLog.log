@@ -1,0 +1,15 @@
+[2023-01-04 16:07:06.476][/Users/eric/CLionProjects/WriteLog/main.c][main][0471][INFO]Version [1.0], Build time[Jan  4 2023 16:00:19].
+[2023-01-04 16:07:06.476][/Users/eric/CLionProjects/WriteLog/main.c][main][0475][FATAL]The Fatal log info!
+[2023-01-04 16:07:06.476][/Users/eric/CLionProjects/WriteLog/main.c][main][0479][ERROR]The Error log info!
+[2023-01-04 16:07:06.476][/Users/eric/CLionProjects/WriteLog/main.c][main][0483][WARN]The Warn log info!
+[2023-01-04 16:07:06.476][/Users/eric/CLionProjects/WriteLog/main.c][main][0487][INFO]The Info log info!
+[2023-01-04 16:07:06.477][/Users/eric/CLionProjects/WriteLog/main.c][main][0491][TRACE]The Trace log info!
+[2023-01-04 16:07:06.477][/Users/eric/CLionProjects/WriteLog/main.c][main][0495][DEBUG]The Debug log info!
+[2023-01-04 16:07:06.477][/Users/eric/CLionProjects/WriteLog/main.c][GetEmployeeInfo][0451][INFO]EmployeeName is qinfengbin, EmployeeAge is 18
+[2023-01-04 16:08:53.779][INFO]Version [1.0], Build time[Jan  4 2023 16:08:53].
+[2023-01-04 16:08:53.779][FATAL]The Fatal log info!
+[2023-01-04 16:08:53.779][ERROR]The Error log info!
+[2023-01-04 16:08:53.780][WARN]The Warn log info!
+[2023-01-04 16:08:53.780][INFO]The Info log info!
+[2023-01-04 16:08:53.780][TRACE]The Trace log info!
+[2023-01-04 16:08:53.780][INFO]EmployeeName is qinfengbin, EmployeeAge is 18
